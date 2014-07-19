@@ -1,0 +1,5 @@
+name = Entity Helper
+description = Helper function when working with Enity
+package = Entity
+core = 7.x
+dependencies[] = laravel_helpers

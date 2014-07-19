@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * @file
+ * Helper functions for Entity
+ */
+require_once "EntityHelper.php";
+require_once "ZMEntityQuery.php";
